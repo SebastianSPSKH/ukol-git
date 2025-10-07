@@ -11,4 +11,5 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
-https://github.com/SebastianSPSKH/ukol-git
+# git log --oneline
+0b819b0 (HEAD-> main) První commit projektu
